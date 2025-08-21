@@ -1,0 +1,1 @@
+**Ushbu GitHub repository Muhammadjon Ibrohimovning SQL darslari bo'yicha uyga vazifasidir. Vazifani tekshirish uchun uni clone qiling va ***requirements.txt*** faylidagi barcha kutubxonalarni o'rnating**
